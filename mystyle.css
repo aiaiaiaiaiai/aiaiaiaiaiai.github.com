@@ -1,0 +1,20 @@
+
+body {
+    color: red;
+    background: #fff;
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    color:red
+}
+h2 {
+    color:green;font-size:20px;
+}
+p {
+    color:blue;
+    text-align: center;
+}
+li strong {
+    font-style: italic;
+    font-weight: normal;
+  }
